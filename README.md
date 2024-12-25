@@ -7,6 +7,8 @@
 
 This is a simple chat application that sets up a messaging system where multiple users can send and receive messages in real-time.
 
+https://github.com/user-attachments/assets/88e481f9-96da-4328-8d5c-940c582f9adb
+
 
 ## Dependencies
 
@@ -82,3 +84,7 @@ You can now type a message in the GUI and send it. All the GUIs will display the
 ```sh
 . bin/lint
 ```
+
+---
+
+Follow discussion [on BlueSky](https://bsky.app/profile/octopusinvitro.bsky.social/post/3le5a6lo6i22u).
