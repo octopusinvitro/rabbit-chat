@@ -1,0 +1,9 @@
+#!/bin/bash
+
+clear
+
+if [ -z $1 ]; then
+  pipenv run python3 -m pytest -vv tests
+else
+  pipenv run python3 -m pytest -vv $@
+fi
