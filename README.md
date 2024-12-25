@@ -62,6 +62,13 @@ but you don't have to:
 You can now type a message in the GUI and send it. All the GUIs will display the message in real time.
 
 
+## To check status
+
+```sh
+. bin/status
+```
+
+
 ## To test
 
 ```sh
